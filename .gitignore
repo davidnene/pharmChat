@@ -1,0 +1,6 @@
+.venv/
+Data/*.parquet
+.env
+meditron*
+__pycache__
+
